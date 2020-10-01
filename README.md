@@ -7,7 +7,7 @@ package that makes it extremely easy to develop code that works with
 
 Example
 -------
-The following is some example code that depicts how to login to The Kingdom
+This is the example code that depicts how to login to The Kingdom
 of Loathing, grab the contents of your inbox, access the item database, as
 well as use and smash items.
 
